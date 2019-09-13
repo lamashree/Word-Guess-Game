@@ -1,0 +1,41 @@
+h {
+    color: olivedrab;
+    margin-right: 200px
+
+}
+body {
+    background: black;
+}
+img {
+    margin-left: 350px;
+}
+#mainbody {
+    display: block;
+    border: dotted white;
+    width: 600px;
+    height: 540px;
+    margin-left: 347px;
+} 
+
+.mydiv {
+    border: dotted white;
+    height: 497px;
+    width: 250px;
+}
+.simple {
+    margin-right: 75px;
+}
+
+.image {
+    height: 150px;
+    margin-left: 23px;
+    margin-top: 20px;
+}
+#child-container {
+    height: 536px;
+    float: right;
+    border: dotted white;
+    width: 340px;
+    color: white;
+    text-align: center;
+}
